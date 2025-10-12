@@ -120,5 +120,20 @@ cd AETHER-Cognitive-Fleet
 # Install dependencies
 pip install -r requirements.txt
 
+
+🛡️ Ethical AI Commitment
+
+AETHER is designed with privacy-first intelligence — vehicles share only insights, not identifiable data.
+All biometric and environmental data are processed locally, ensuring compliance with GDPR and data ethics standards.
+
+📬 Contact
+👩‍💻 Sudarshanam Yessasvini
+📧 yessasvini.s@gmail.com
+🌐 https://datascienceportfol.io/yessasvinis
+🔗 LinkedIn
+
+
+⭐ Acknowledgment
+“AETHER is not just about smarter vehicles — it’s about collective intelligence that moves humanity forward.”
 # Run the Streamlit dashboard
 streamlit run app.py
