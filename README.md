@@ -135,5 +135,4 @@ All biometric and environmental data are processed locally, ensuring compliance 
 
 ⭐ Acknowledgment
 “AETHER is not just about smarter vehicles — it’s about collective intelligence that moves humanity forward.”
-# Run the Streamlit dashboard
-streamlit run app.py
+
