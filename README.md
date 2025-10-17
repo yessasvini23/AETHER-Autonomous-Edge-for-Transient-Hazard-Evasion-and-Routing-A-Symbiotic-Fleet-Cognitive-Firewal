@@ -139,6 +139,3 @@ All biometric and environmental data are processed **locally on the edge**, ensu
 > “AETHER is not just about smarter vehicles — it’s about collective intelligence that moves humanity forward.”
 
 
-
---I can generate a clean, cinematic flow diagram (dark mode, neon-blue style) for your GitHub page.
-```
