@@ -1,9 +1,3 @@
-Absolutely ✅ — here’s the **complete GitHub README code** version (Markdown ready to copy-paste).
-It includes your **prototype link**, **demo video**, **badges**, and all formatting preserved.
-
----
-
-````markdown
 # 🚗 **AETHER — The Symbiotic Fleet Cognitive Firewall**  
 ### *Autonomous Edge for Transient Hazard Evasion and Routing*  
 
