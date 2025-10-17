@@ -65,7 +65,7 @@ AETHER operates through a **three-layer intelligent architecture**:
 4. Cloud AI updates global models → pushes improvements fleet-wide.  
 5. Continuous feedback loop enhances safety and sustainability.
 
-![Architecture Diagram](https://user-images.githubusercontent.com/yourgithubusername/aether-architecture-diagram.png)
+![Architecture Diagram]((https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/blob/main/images/1000216679.jpg?raw=true)
 
 ---
 
@@ -92,7 +92,7 @@ AETHER operates through a **three-layer intelligent architecture**:
 ## 📊 Dashboard Preview  
 
 *(Mockup Screenshot Example)*  
-![Dashboard Preview](https://user-images.githubusercontent.com/yourgithubusername/aether-dashboard.png)
+![Dashboard Preview]((https://github.com/<YOUR_USERNAME>/<YOUR_REPO>/blob/main/images/1000216680.jpg?raw=true))
 
 Displays:  
 ✅ Real-time mesh network  
@@ -130,7 +130,7 @@ All biometric and environmental data are processed locally, ensuring compliance 
 👩‍💻 Sudarshanam Yessasvini
 📧 yessasvini.s@gmail.com
 🌐 https://datascienceportfol.io/yessasvinis
-🔗 LinkedIn
+🔗 LinkedIn: www.linkedin.com/in/sudarshanam-yessasvini-358a72287
 
 
 ⭐ Acknowledgment
